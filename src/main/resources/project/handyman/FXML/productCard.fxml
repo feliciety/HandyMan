@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="project.demo.productCardController" spacing="10" style="-fx-padding: 10;">
+    <ImageView fx:id="productImage" fitWidth="150" fitHeight="150" preserveRatio="true"/>
+    <Label fx:id="productName" style="-fx-font-weight: bold; -fx-font-size: 14px;" />
+    <Label fx:id="productPrice" style="-fx-font-size: 12px; -fx-text-fill: gray;" />
+</VBox>
