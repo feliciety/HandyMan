@@ -12,11 +12,11 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="764.0" prefWidth="1352.0" style="-fx-background-color: #3E66FF;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.demo.SignUpController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="764.0" prefWidth="1352.0" style="-fx-background-color: #3E66FF;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.handyman.SignUpController">
 
     <ImageView fitHeight="761.0" fitWidth="1387.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 50;">
         <image>
-            <Image url="@../Images/background.png" />
+            <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/background.png" />
         </image>
     </ImageView>
 
@@ -24,7 +24,7 @@
         <children>
             <ImageView fitHeight="71.0" fitWidth="307.0" layoutX="584.0" layoutY="33.0" pickOnBounds="true" preserveRatio="true">
                 <image>
-                    <Image url="@../Images/3.png" />
+                    <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/3.png" />
                 </image>
             </ImageView>
          <Button fx:id="signInOption" layoutX="273.0" layoutY="166.0" mnemonicParsing="false" onMouseClicked="#signInSwap" style="-fx-background-color: white;" text="Sign In." textFill="#3e66ff">
@@ -100,14 +100,14 @@
     </Text>
 
     <!-- Sign Up Button -->
-    <Button fx:id="signUpButton" layoutX="199.0" layoutY="590.0" mnemonicParsing="false" onMouseClicked="#signUpButtonClicked" prefHeight="51.0" prefWidth="342.0" stylesheets="@../CSS/Words.css" text="Sign Up" AnchorPane.leftAnchor="199.0" AnchorPane.topAnchor="568.0" />
+    <Button fx:id="signUpButton" layoutX="199.0" layoutY="590.0" mnemonicParsing="false" onMouseClicked="#signUpButtonClicked" prefHeight="51.0" prefWidth="342.0" stylesheets="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/CSS/Words.css" text="Sign Up" AnchorPane.leftAnchor="199.0" AnchorPane.topAnchor="568.0" />
 
     <!-- Icons for inputs -->
     <StackPane layoutX="499.2" layoutY="303.0" prefHeight="38.0" prefWidth="38.0" AnchorPane.leftAnchor="499.2">
         <children>
             <ImageView fitHeight="21.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
                 <image>
-                    <Image url="@../Images/userIconG.png" />
+                    <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/userIconG.png" />
                 </image>
             </ImageView>
         </children>
@@ -117,7 +117,7 @@
         <children>
             <ImageView fitHeight="24.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
                 <image>
-                    <Image url="@../Images/lockIconG.png" />
+                    <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/lockIconG.png" />
                 </image>
             </ImageView>
         </children>
@@ -127,7 +127,7 @@
         <children>
             <ImageView fitHeight="18.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
                 <image>
-                    <Image url="@../Images/emailIconG.png" />
+                    <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/emailIconG.png" />
                 </image>
             </ImageView>
         </children>

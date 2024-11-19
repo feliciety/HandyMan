@@ -14,7 +14,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane prefHeight="764.0" prefWidth="1352.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.demo.MainController">
+<AnchorPane prefHeight="764.0" prefWidth="1352.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.handyman.MainController">
    <children>
       <ScrollPane fx:id="scrollPane" layoutY="50.0" prefHeight="715.0" prefWidth="1355.0">
          <content>
@@ -33,7 +33,7 @@
                                  <children>
                                     <ImageView fitHeight="43.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
-                                          <Image url="@../Images/facebook.png" />
+                                          <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/facebook.png" />
                                        </image>
                                        <HBox.margin>
                                           <Insets right="10.0" />
@@ -41,7 +41,7 @@
                                     </ImageView>
                                     <ImageView fitHeight="43.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
-                                          <Image url="@../Images/pinterest.png" />
+                                          <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/pinterest.png" />
                                        </image>
                                        <HBox.margin>
                                           <Insets right="10.0" />
@@ -49,7 +49,7 @@
                                     </ImageView>
                                     <ImageView fitHeight="43.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
-                                          <Image url="@../Images/twitter.png" />
+                                          <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/twitter.png" />
                                        </image>
                                        <HBox.margin>
                                           <Insets right="10.0" />
@@ -57,7 +57,7 @@
                                     </ImageView>
                                     <ImageView fitHeight="43.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
-                                          <Image url="@../Images/youtube.png" />
+                                          <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/youtube.png" />
                                        </image>
                                        <HBox.margin>
                                           <Insets right="10.0" />
@@ -68,7 +68,7 @@
                                           <Insets left="600.0" right="7.0" />
                                        </HBox.margin>
                                        <image>
-                                          <Image url="@../Images/location.png" />
+                                          <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/location.png" />
                                        </image>
                                     </ImageView>
                                     <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="123 Matina Avenue Suite 500, South Davao, Philippines">
@@ -81,7 +81,7 @@
                                     </Text>
                                     <ImageView fitHeight="26.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
-                                          <Image url="@../Images/email.png" />
+                                          <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/email.png" />
                                        </image>
                                        <HBox.margin>
                                           <Insets left="40.0" right="10.0" />
@@ -107,11 +107,11 @@
                         </StackPane>
                      </children>
                   </Pane>
-                  <HBox fx:id="header" alignment="CENTER_LEFT" prefHeight="53.0" prefWidth="1355.0" stylesheets="@../CSS/Words.css">
+                  <HBox fx:id="header" alignment="CENTER_LEFT" prefHeight="53.0" prefWidth="1355.0" stylesheets="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/CSS/Words.css">
                      <children>
                         <ImageView fitHeight="77.0" fitWidth="240.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../Images/3.png" />
+                              <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/3.png" />
                            </image>
                            <HBox.margin>
                               <Insets left="20.0" top="10.0" />
@@ -145,7 +145,7 @@
                            <graphic>
                               <ImageView fitHeight="6.0" fitWidth="15.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@../Images/comboArrow.png" />
+                                    <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/comboArrow.png" />
                                  </image>
                               </ImageView>
                            </graphic>

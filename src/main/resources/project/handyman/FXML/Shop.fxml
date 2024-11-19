@@ -8,11 +8,11 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane prefHeight="2161.0" prefWidth="1341.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.demo.ShopController">
+<AnchorPane prefHeight="2161.0" prefWidth="1341.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project.handyman.ShopController">
    <children>
       <ImageView fitHeight="434.0" fitWidth="1358.0" layoutX="-3.0" layoutY="-3.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../Images/shopBG.png" />
+            <Image url="@../../../../../../../../OneDrive - umindanao.edu.ph/Desktop/HandyMan/src/main/resources/project/handyman/Images/shopBG.png" />
          </image>
       </ImageView>
       <Text fill="WHITE" layoutX="100.0" layoutY="281.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Shop">

@@ -4,37 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4718be-f90b-4b54-b4f1-f823e614b68e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/BookServicesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/BookServicesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/CartPageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/HomePageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/ServicesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/ServicesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/ShopController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/ShopPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/SignInController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/SignInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/SignUpController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/SignUpPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/aboutUsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/aboutUsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/productCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/handyman/productCardController.java" afterDir="false" />
+    <list default="true" id="ad4718be-f90b-4b54-b4f1-f823e614b68e" name="Changes" comment="wdwd">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/AboutUs.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/AboutUs.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/HomePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/HomePage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/MainpageStructure.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/MainpageStructure.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/Services.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/Services.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/Shop.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/Shop.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/SignIn.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/SignIn.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/SignUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/SignUp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/bookServices.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/bookServices.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/productCard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/handyman/FXML/productCard.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,21 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/HandyMan/src/main/java/project/handyman&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/HandyMan/src/main/java/project/handyman",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\HandyMan\src\main\resources\project\handyman\FXML" />
+      <recent name="C:\Users\Admin\Desktop\HandyMan\src\main\java\project\handyman" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -106,10 +91,24 @@
       <option name="presentableId" value="Default" />
       <updated>1732026150871</updated>
       <workItem from="1732026296842" duration="303000" />
+      <workItem from="1732027763221" duration="116000" />
     </task>
+    <task id="LOCAL-00001" summary="wdwd">
+      <option name="closed" value="true" />
+      <created>1732027839731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732027839731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wdwd" />
+    <option name="LAST_COMMIT_MESSAGE" value="wdwd" />
   </component>
 </project>
