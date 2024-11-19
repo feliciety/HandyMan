@@ -67,7 +67,7 @@ public  class SignUpController {
     private void loadHomePage() {
         try {
             // Load MainpageStructure.fxml
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/FXML/MainpageStructure.fxml"));
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/handyman/FXML/MainpageStructure.fxml"));
             AnchorPane homePageRoot = loader.load();
 
             // Get the current stage
@@ -91,7 +91,7 @@ public  class SignUpController {
     private void signInSwap() {
         try {
             // Load SignUp.fxml
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/FXML/SignIn.fxml"));
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/handyman/FXML/SignIn.fxml"));
             AnchorPane signUpRoot = loader.load();
 
             // Create a new scene for the SignUp page

@@ -6,17 +6,25 @@ import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-import java.io.IOException;
-
 public class HomePage extends Application {
 
     @Override
-    public void start(Stage primaryStage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("MainpageStructure.fxml"));
-        Scene scene = new Scene(fxmlLoader.load());
-        primaryStage.setTitle("MAIN PAGE");
-        primaryStage.setScene(scene);
-        primaryStage.show();
+    public void start(Stage primaryStage) {
+        try {
+            // Load the FXML
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/FXML/MainpageStructure.fxml"));
+            AnchorPane root = loader.load(); // Match the type of the FXML root element
+
+            // Create the Scene
+            Scene scene = new Scene(root, 1352, 764);
+
+            // Configure the Stage
+            primaryStage.setTitle("Home Page");
+            primaryStage.setScene(scene);
+            primaryStage.show();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     public static void main(String[] args) {

@@ -30,35 +30,35 @@ public class MainController {
 
 
     // Called automatically after FXML is loaded
-    //@FXML
-//    private void initialize() {
-//        // Load the default HomePage.fxml when the application starts
-//        loadPage("/project/demo/FXML/HomePage.fxml");
-//    }
+    @FXML
+    private void initialize() {
+        // Load the default HomePage.fxml when the application starts
+        loadPage("/project/handyman/FXML/HomePage.fxml");
+    }
 
     // Button click handlers for navigation
     @FXML
     private void handleHomeClick() {
-        loadPage("/project/demo/FXML/HomePage.fxml");
+        loadPage("/project/handyman/FXML/HomePage.fxml");
     }
 
     @FXML
     private void handleAboutUsClick() {
-        loadPage("/project/demo/FXML/AboutUs.fxml");
+        loadPage("/project/handyman/FXML/AboutUs.fxml");
     }
 
     @FXML
     private void handleShopClick() {
-        loadPage("/project/demo/FXML/Shop.fxml");
+        loadPage("/project/handyman/FXML/Shop.fxml");
     }
 
     @FXML
     private void handleServiceClick() {
-        loadPage("/project/demo/FXML/Services.fxml");
+        loadPage("/project/handyman/FXML/Services.fxml");
     }
 
     @FXML
     private void handleBookServiceClick() {
-        loadPage("/project/demo/FXML/bookServices.fxml");
+        loadPage("/project/handyman/FXML/bookServices.fxml");
     }
 }

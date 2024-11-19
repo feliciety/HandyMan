@@ -67,7 +67,7 @@ public class SignInController {
     private void loadHomePage() {
         try {
             // Ensure the path is correct (adjust the path as per your project structure)
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/FXML/MainpageStructure.fxml"));
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/handyman/FXML/MainpageStructure.fxml"));
             AnchorPane homePageRoot = loader.load(); // Load the HomePage FXML
 
             // Create a new scene for the HomePage

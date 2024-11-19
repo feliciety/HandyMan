@@ -12,7 +12,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) {
         try {
             // Load the main structure (MainPageStructure.fxml)
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/FXML/MainPageStructure.fxml"));
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/handyman/FXML/MainPageStructure.fxml"));
             Scene scene = new Scene(loader.load());
 
             // Set the stage
