@@ -12,7 +12,7 @@ public class SignInPage extends Application {
     public void start(Stage primaryStage) {
         try {
             // Load the FXML file
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/FXML/SignIn.fxml"));
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/handyman/FXML/SignIn.fxml"));
 
             // AnchorPane is the root element in the FXML file
             AnchorPane root = loader.load();

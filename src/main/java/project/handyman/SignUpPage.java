@@ -12,7 +12,7 @@ public class SignUpPage extends Application {
     public void start(Stage primaryStage) {
         try {
             // Load the FXML file (signUpPage.fxml)
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/SignUp.fxml"));
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/handyman/FXML/SignUp.fxml"));
 
             // Load the content from the FXML file
             AnchorPane root = loader.load();

@@ -12,7 +12,7 @@ public class HomePage extends Application {
     public void start(Stage primaryStage) {
         try {
             // Load the FXML
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/demo/FXML/MainpageStructure.fxml"));
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/project/handyman/FXML/MainpageStructure.fxml"));
             AnchorPane root = loader.load(); // Match the type of the FXML root element
 
             // Create the Scene
