@@ -30,11 +30,11 @@ public class MainController {
 
 
     // Called automatically after FXML is loaded
-    @FXML
-    private void initialize() {
-        // Load the default HomePage.fxml when the application starts
-        loadPage("/project/demo/FXML/HomePage.fxml");
-    }
+    //@FXML
+//    private void initialize() {
+//        // Load the default HomePage.fxml when the application starts
+//        loadPage("/project/demo/FXML/HomePage.fxml");
+//    }
 
     // Button click handlers for navigation
     @FXML
